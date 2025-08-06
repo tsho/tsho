@@ -79,7 +79,7 @@ SnowflakeのデベロッパーアドボケイトとしてSnowflakeやAI/MLに関
 - Three tips for graduates, GDSC Graduation! Ceremony, Tokyo, 2022 Aug 12
 - Introduction to MLOps, [ML OnAir #6](https://cloudonair.withgoogle.com/events/solution-machine-learning?talk=ml-session6-2), Tokyo, 2022 Mar 16
 
-## 2021
+### 2021
 - Introduction to Data Drift, [MLOps JP community #8](https://mlops.connpass.com/event/211953/), Tokyo (Onine), 2021, June 16
 
 
