@@ -22,7 +22,7 @@ Translated with DeepL.com (free version)
 
 田中 翔　/ スノーフレイク合同会社 デベロッパーアドボケイト
 
-SnowflakeのデベロッパーアドボケイトとしてSnowflakeやAI/MLに関するブログ記事やドキュメントの執筆、デモ開発等を担当。2020年から2025年までGoogle JapanのgTechにてPublisher向けのML/Data提供を日本からアジア、世界に向けて提供し、コンテンツレコメンデーションなどをGithubなどを経由で提供したソリューションはPublisherの収益を改善することに成功し、gTech Publisher内での初の外部事例を複数作成した。プライベートではMLOps community JPをCo-organizerとして運営している。AI/MLを中心に情報発信を行っている。
+Snowflake のデベロッパーアドボケイトとして Data Engineering や AI/ML に関するブログ記事やドキュメントの執筆、デモ開発等を担当。2020 年から 2025 年まで Google の gTech にて Publisher 向けの技術コンサルタントとして、ML/Data のソリューションを Github などを介して日本からアジア、世界に向けて提供した。コンテンツレコメンデーションや Gemini を用いたソリューションによって Publisher の収益を改善することに成功し、gTech Publisher 内での初の外部事例を複数作成した。プライベートでは MLOps community JP を Co-organizer として運営している。AI/ML を中心に情報発信を行っている。
 
 
 
