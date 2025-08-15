@@ -20,9 +20,9 @@ Translated with DeepL.com (free version)
 
 ## Bio (Japanese)
 
-田中 翔　/ スノーフレイク合同会社 デベロッパーアドボケイト
+田中 翔　/ スノーフレイク合同会社 Developer Advocate
 
-Snowflake のデベロッパーアドボケイトとして Data Engineering や AI/ML に関するブログ記事やドキュメントの執筆、デモ開発等を担当。2020 年から 2025 年まで Google の gTech にて Publisher 向けの技術コンサルタントとして、ML/Data のソリューションを Github などを介して日本からアジア、世界に向けて提供した。コンテンツレコメンデーションや Gemini を用いたソリューションによって Publisher の収益を改善することに成功し、gTech Publisher 内での初の外部事例を複数作成した。プライベートでは MLOps community JP を Co-organizer として運営している。AI/ML を中心に情報発信を行っている。
+Snowflake の Developer Advocate として Data Engineering や AI/ML に関するブログ記事やドキュメントの執筆、デモ開発等を担当。2020 年から 2025 年まで Google の gTech にて Publisher 向けの Solution Engineerとして、ML/Data のソリューションを Github などを介して日本からアジア、世界に向けて提供。コンテンツレコメンデーションや Gemini を用いたソリューションによって Publisher の収益を改善することに成功し、gTech Publisher 内での初の外部事例を複数作成。当時、APACの所属組織内で初めて Python Readability を取得。プライベートでは MLOps community JP を Co-organizer として運営している。AI/ML を中心に情報発信を行っている。
 
 
 
@@ -47,7 +47,7 @@ Snowflake のデベロッパーアドボケイトとして Data Engineering や 
 ### 2025
 
 - ADK hands-on as Tutor, [Build with AI ADK Hands-on](https://connpass.com/event/358223/), Tokyo, 2025 Jul 3
-- Gemini API 2.0 Hands-on, [AI 共創の時代へ - Build with AI Kwansai](https://gdgkwansai.connpass.com/event/346523/), Isaka, 2025 Apr 19
+- Gemini API 2.0 Hands-on, [AI 共創の時代へ - Build with AI Kwansai](https://gdgkwansai.connpass.com/event/346523/), Osaka, 2025 Apr 19
 - Gemini API 2.0 Hands-on, [Python × Gemini 2.0 API ハンズオン〜Build with AI 〜](https://gdg-tokyo.connpass.com/event/346783/), Tokyo, 2025 Apr 15
 - Gemini API 2.0 Hands-on, [GDG Nagoya @ Build With AI Meetup & ハンズオン](https://gdgnagoya.connpass.com/event/347154/), Aichi, 2025 Apr 12
 - Gemini API 2.0 Hands-on, [Google Gemini ハンズオン in 徳島（Build with AI）](https://gdgshikoku.connpass.com/event/339649/) , Tokushima, 2025 Feb 8
