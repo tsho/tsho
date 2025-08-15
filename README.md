@@ -6,7 +6,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 - 🧑‍💻 I'm a Developer Advocate.
-- 📫 How to reach me: [Twitter - @tshowis](https://twitter.com/tshowis)
+- 📫 How to reach me: [Twitter - @tshowis](https://twitter.com/tshowis), [Linkedin](https://www.linkedin.com/in/tsho/)  
 - 🌱 I’m currently learning TypeScript, LLM.
 - 💬 Ask me about MLOps, ML, AI, Data Architect, IT Strategy.
 
