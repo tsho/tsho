@@ -43,7 +43,8 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ## Presentations
 ### 2025
-
+- AISQL: A Reverse Image Search System Built Entirely on Snowflake, [Snowflake World Tour Tokyo 2025](https://snowflake-event.jp/world-tour-25/theater-timetable/), Tokyo, 2025 Sep 12
+- Snowflake × Agentic AI: Pioneering Next-Generation Data Utilization, [Snowflake World Tour Tokyo 2025](https://snowflake-event.jp/world-tour-25/theater-timetable/), Tokyo, 2025 Sep 11
 - ADK hands-on as Tutor, [Build with AI ADK Hands-on](https://connpass.com/event/358223/), Tokyo, 2025 Jul 3
 - Gemini API 2.0 Hands-on, [AI 共創の時代へ - Build with AI Kwansai](https://gdgkwansai.connpass.com/event/346523/), Osaka, 2025 Apr 19
 - Gemini API 2.0 Hands-on, [Python × Gemini 2.0 API ハンズオン〜Build with AI 〜](https://gdg-tokyo.connpass.com/event/346783/), Tokyo, 2025 Apr 15
