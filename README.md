@@ -49,8 +49,8 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ### 2025
 - Developer Advocate/Community Managerになるには？スキル・ロール・キャリアをグローバルな文脈から考える, [DevRelKaigi 2025](https://devrelkaigi.org/ja/speakers/sho), Tokyo, 2025 Oct 04, Sho Tanaka
 - Snowflake Snapshot, [PyCon JP 2025](https://2025.pycon.jp/ja/timetable/day2), Hiroshima, 2025 Sep 27
-- AISQL: A Reverse Image Search System Built Entirely on Snowflake, [Snowflake World Tour Tokyo 2025](https://snowflake-event.jp/world-tour-25/theater-timetable/), Tokyo, 2025 Sep 12, Sho Tanaka
-- Snowflake × Agentic AI: Pioneering Next-Generation Data Utilization, [Snowflake World Tour Tokyo 2025](https://snowflake-event.jp/world-tour-25/theater-timetable/), Tokyo, 2025 Sep 11, Sho Tanaka
+- AISQLで実現：Snowflakeだけで構築する逆画像検索システム - 類似画像を瞬時に発見 - (AISQL: A Reverse Image Search System Built Entirely on Snowflake), [Snowflake World Tour Tokyo 2025](https://snowflake-event.jp/world-tour-25/theater-timetable/), Tokyo, 2025 Sep 12, Sho Tanaka
+- Snowflake × Agentic AI が切り拓く次世代データ活用 (Snowflake × Agentic AI: Pioneering Next-Generation Data Utilization), [Snowflake World Tour Tokyo 2025](https://snowflake-event.jp/world-tour-25/theater-timetable/), Tokyo, 2025 Sep 11, Sho Tanaka
 - ADK hands-on as Tutor, [Build with AI ADK Hands-on](https://connpass.com/event/358223/), Tokyo, 2025 Jul 3
 - Gemini API 2.0 Hands-on, [AI 共創の時代へ - Build with AI Kwansai](https://gdgkwansai.connpass.com/event/346523/), Osaka, 2025 Apr 19
 - Gemini API 2.0 Hands-on, [Python × Gemini 2.0 API ハンズオン〜Build with AI 〜](https://gdg-tokyo.connpass.com/event/346783/), Tokyo, 2025 Apr 15
