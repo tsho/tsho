@@ -66,7 +66,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - Gemini API 1.0 hands-on, [Build with AI - Python SDKを触ってみよう @ 仙台](https://gdgishinomaki.connpass.com/event/315940/), Miyagi, 2024 May 4
 - Gemini API 1.0 hands-on, [【Python x Gemini】ハンズオン - Build with AI](https://gdg-tokyo.connpass.com/event/317227/), Tokyo, 2024 April 30
 - Things You Should Do as a Student before Becoming a Professional Tech Role, [GDSC Japan 合同新歓 未経験者でも大丈夫！基礎から学ぶウェブサイト制作](https://gdsc-jp.connpass.com/event/311644/), Tokyo, 2024 Apr 30
-- ML Career path, 機械学習のプロフェッショナルとして働く人のキャリアパス by GDSC Tokyo City University, Tokyo (Online), 2024 Mar 23
+- ML Career path, [機械学習のプロフェッショナルとして働く人のキャリアパス](https://gdg.community.dev/events/details/google-gdg-on-campus-tokyo-city-university-tokyo-japan-presents-ji-jie-xue-xi-nopurohuetsushiyonarutoshitedong-kuren-nokiyariapasu/) by GDSC Tokyo City University, Tokyo (Online), 2024 Mar 23
 - Facilitator of Panel Discussion, Google Developer Expertsが語るWeb技術の最前線, Tokyo, 2024 Mar 19 
 
 ### 2023
