@@ -43,9 +43,10 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ## Presentations
 ### Upcoming
-- Model Evaluation for Custom Datasets With Open Models: Multi-Model Comparison With Streamlit, [Open Source Summit Japan 2025, Linux Foundation](https://events.linuxfoundation.org/open-source-summit-japan/?ajs_aid=3acad71b-bff4-43ec-9ca5-b0e6cf15dea4), Tokyo, 2025 Dec 10, Sho Tanaka
 
 ### 2025
+- Model Evaluation for Custom Datasets With Open Models: Multi-Model Comparison With Streamlit, [Open Source Summit Japan 2025, Linux Foundation](https://events.linuxfoundation.org/open-source-summit-japan/?ajs_aid=3acad71b-bff4-43ec-9ca5-b0e6cf15dea4), Tokyo, 2025 Dec 10, Sho Tanaka
+- Technical Lab: Building Your First End-to-End Machine Learning Project from Scratch, [BUILD ASIA Pacific 2025, Snowflake](https://www.snowflake.com/build-apac/build-apac-resources/), Online, 2025 Dec 9, Sho Tanaka
 - Introduction to Snowflake, [第2回国土交通省地理空間情報データチャレンジ 勉強会 - Snowflake編](https://pcdua1203.peatix.com/), Online, 2025 Dec 3, Sho Tanaka
 - The Rise of PostgreSQL as the Everything Database, [PostgreSQL Conference Japan 2025](https://www.postgresql.jp/jpug-pgcon2025), Tokyo, 2025 Nov 21, Claire Peracchio / Brett Goulder / Sho Tanaka
 - Snowflake's Agentic AI - Cortex Code & Data Science Agent, DataScience&DataEngineering MeetUp #1, [DataScience&DataEngineering MeetUp #1](https://techplay.jp/event/987536), Tokyo, 2025 Nov 17, Sho Tanaka
