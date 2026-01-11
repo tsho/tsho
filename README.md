@@ -36,8 +36,8 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tsho&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsho&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-navy-iota-76.vercel.app/api?username=tsho&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-navy-iota-76.vercel.app/api/top-langs/?username=tsho&theme=vue-dark&layout=compact" />
 </div>
 
 
