@@ -43,9 +43,10 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ## Presentations
 ### Upcoming
-
+- Introduction to Snowflake, [【金融庁共催】第４回金融データ活用チャレンジ勉強会 - Snowflake編]([https://pcdua1203.peatix.com/](https://user.competition.signate.jp/ja/competition/detail/?competition=8fd1916845984ca1ae2d620731deae19)), Online, 2026 Jan 29, Sho Tanaka
+- 
 ### 2026
-- Snowflake Intelligence オリジナルハンズオン, [BUILD Meetup: Osaka 2025](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-build-meetup-tokyo-2025/), Tokyo, 2025 Jan 14, Sho Tanaka
+- Snowflake Intelligence オリジナルハンズオン, [BUILD Meetup: Osaka 2025](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-build-meetup-tokyo-2025/), Osaka, 2026 Jan 14, Sho Tanaka
 - 「お昼休みに学ぶ」Snowflake入門シリーズ, [Zero to Snowflake](https://www.snowflake.com/webinars/zero-to-snowflake-japan-20260113/), Tokyo, 2026 Jan 13-16, Sho Tanaka
 
 ### 2025
