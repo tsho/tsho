@@ -44,7 +44,12 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ## Presentations
 ### Upcoming
 
+### 2026
+- Snowflake Intelligence オリジナルハンズオン, [BUILD Meetup: Osaka 2025](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-build-meetup-tokyo-2025/), Tokyo, 2025 Jan 14, Sho Tanaka
+- 「お昼休みに学ぶ」Snowflake入門シリーズ, [Zero to Snowflake](https://www.snowflake.com/webinars/zero-to-snowflake-japan-20260113/), Tokyo, 2026 Jan 13-16, Sho Tanaka
+
 ### 2025
+- Snowflake Intelligence オリジナルハンズオン, [BUILD Meetup: Tokyo 2025](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-build-meetup-tokyo-2025/), Tokyo, 2025 Dec 17, Sho Tanaka
 - 【簡易ハンズオン】Snowflake Cortex AIとマネージドMCPサーバーによるエージェント駆動型ワークフローの構築, [BUILD Japan 2025](https://www.snowflake.com/build-japan-online/), Tokyo, 2025 Dec 12, Sho Tanaka
 - Keynote: データエンジニアリングの進化〜AI Readyな基盤構築とAI活用の真価〜, [BUILD Japan 2025](https://www.snowflake.com/build-japan-online/), Tokyo, 2025 Dec 12, Sho Tanaka
 - Postgres + AI, [BUILD Japan 2025](https://www.snowflake.com/build-japan-online/), Tokyo, 2025 Dec 11, Sho Tanaka
@@ -53,7 +58,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - Introduction to Snowflake, [第2回国土交通省地理空間情報データチャレンジ 勉強会 - Snowflake編](https://pcdua1203.peatix.com/), Online, 2025 Dec 3, Sho Tanaka
 - The Rise of PostgreSQL as the Everything Database, [PostgreSQL Conference Japan 2025](https://www.postgresql.jp/jpug-pgcon2025), Tokyo, 2025 Nov 21, Claire Peracchio / Brett Goulder / Sho Tanaka
 - Snowflake's Agentic AI - Cortex Code & Data Science Agent, DataScience&DataEngineering MeetUp #1, [DataScience&DataEngineering MeetUp #1](https://techplay.jp/event/987536), Tokyo, 2025 Nov 17, Sho Tanaka
-- 「お昼休みに学ぶ」Snowflake入門シリーズ, Zero to Snowflake, [Zero to Snowflake](https://www.snowflake.com/webinar/zero-to-snowflake-japan-202510/), Tokyo, 2025 Oct 14-16, Sho Tanaka
+- 「お昼休みに学ぶ」Snowflake入門シリーズ, [Zero to Snowflake](https://www.snowflake.com/webinar/zero-to-snowflake-japan-202510/), Tokyo, 2025 Oct 14-16, Sho Tanaka
 - Developer Advocate/Community Managerになるには？スキル・ロール・キャリアをグローバルな文脈から考える, [DevRelKaigi 2025](https://devrelkaigi.org/ja/speakers/sho), Tokyo, 2025 Oct 04, Sho Tanaka
 - Snowflake Snapshot, [PyCon JP 2025](https://2025.pycon.jp/ja/timetable/day2), Hiroshima, 2025 Sep 27
 - AISQLで実現：Snowflakeだけで構築する逆画像検索システム - 類似画像を瞬時に発見 - (AISQL: A Reverse Image Search System Built Entirely on Snowflake), [Snowflake World Tour Tokyo 2025](https://snowflake-event.jp/world-tour-25/theater-timetable/), Tokyo, 2025 Sep 12, Sho Tanaka
