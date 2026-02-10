@@ -31,7 +31,6 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,fastapi,go,docker,aws,gcp,firebase,fortran,git" />
 <br>
 
-
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
@@ -40,8 +39,19 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
   <img alt="github stats" height="170px" src="https://github-readme-stats-navy-iota-76.vercel.app/api/top-langs/?username=tsho&theme=vue-dark&layout=compact&count_private=true&include_all_commits=true&show_icons=true" />
 </div>
 
+## Presentation - English
 
-## Presentations
+### 2026
+- [LT: Scale SciPy with jax.shard_map](https://speakerdeck.com/tsho/scale-scipy-with-jax-dot-shard-map-jax-dot-shard-mapde-scipy-wosukeru), [SciPyData 2026](https://scipydata.connpass.com/event/364718/), Tokyo, 2026 Jan 24, Sho Tanaka
+
+### 2025
+- Model Evaluation for Custom Datasets With Open Models: Multi-Model Comparison With Streamlit, [Open Source Summit Japan 2025, Linux Foundation](https://events.linuxfoundation.org/open-source-summit-japan/?ajs_aid=3acad71b-bff4-43ec-9ca5-b0e6cf15dea4), Tokyo, 2025 Dec 10, Sho Tanaka
+- Technical Lab: Building Your First End-to-End Machine Learning Project from Scratch, [BUILD ASIA Pacific 2025, Snowflake](https://www.snowflake.com/build-apac/build-apac-resources/), Online, 2025 Dec 9, Sho Tanaka
+- The Rise of PostgreSQL as the Everything Database, [PostgreSQL Conference Japan 2025](https://www.postgresql.jp/jpug-pgcon2025), Tokyo, 2025 Nov 21, Claire Peracchio / Brett Goulder / Sho Tanaka
+
+ 
+## Presentaion - Japanese / 日本語
+
 ### Upcoming
 - AI Agentにおける評価手法とGPA, [MLOps 勉強会 #61](https://mlops.connpass.com/event/382225/), Online, 2026 Feb 26, Sho Tanaka
 - Snowflake で簡単に構築できる AI Agent と次世代フルマネージドデータエージェント - Snowflake Intelligence, [Developers Summit 2026](https://event.shoeisha.jp/devsumi/20260218/session/6498), Ariake Central Tower Hall&Conference@Japan, 2026 Feb 20, Sho Tanaka
@@ -59,12 +69,10 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - 「お昼休みに学ぶ」Snowflake入門シリーズ, [Zero to Snowflake](https://www.snowflake.com/webinars/zero-to-snowflake-japan-20260113/), Tokyo, 2026 Jan 13-16, Sho Tanaka
 
 ### 2025
-- Snowflake Intelligence オリジナルハンズオン, [BUILD Meetup: Tokyo 2025](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-build-meetup-tokyo-2025/), Tokyo, 2025 Dec 17, Sho Tanaka
+- Snowflake Intelligence Hands-on, [BUILD Meetup: Tokyo 2025](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-build-meetup-tokyo-2025/), Tokyo, 2025 Dec 17, Sho Tanaka
 - 【簡易ハンズオン】Snowflake Cortex AIとマネージドMCPサーバーによるエージェント駆動型ワークフローの構築, [BUILD Japan 2025](https://www.snowflake.com/build-japan-online/), Tokyo, 2025 Dec 12, Sho Tanaka
 - Keynote: データエンジニアリングの進化〜AI Readyな基盤構築とAI活用の真価〜, [BUILD Japan 2025](https://www.snowflake.com/build-japan-online/), Tokyo, 2025 Dec 12, Sho Tanaka
 - Snowflake Postgres + AI, [BUILD Japan 2025](https://www.snowflake.com/build-japan-online/), Tokyo, 2025 Dec 11, Sho Tanaka
-- Model Evaluation for Custom Datasets With Open Models: Multi-Model Comparison With Streamlit, [Open Source Summit Japan 2025, Linux Foundation](https://events.linuxfoundation.org/open-source-summit-japan/?ajs_aid=3acad71b-bff4-43ec-9ca5-b0e6cf15dea4), Tokyo, 2025 Dec 10, Sho Tanaka
-- Technical Lab: Building Your First End-to-End Machine Learning Project from Scratch, [BUILD ASIA Pacific 2025, Snowflake](https://www.snowflake.com/build-apac/build-apac-resources/), Online, 2025 Dec 9, Sho Tanaka
 - Introduction to Snowflake, [第2回国土交通省地理空間情報データチャレンジ 勉強会 - Snowflake編](https://pcdua1203.peatix.com/), Online, 2025 Dec 3, Sho Tanaka
 - The Rise of PostgreSQL as the Everything Database, [PostgreSQL Conference Japan 2025](https://www.postgresql.jp/jpug-pgcon2025), Tokyo, 2025 Nov 21, Claire Peracchio / Brett Goulder / Sho Tanaka
 - Snowflake's Agentic AI - Cortex Code & Data Science Agent, DataScience&DataEngineering MeetUp #1, [DataScience&DataEngineering MeetUp #1](https://techplay.jp/event/987536), Tokyo, 2025 Nov 17, Sho Tanaka
@@ -89,7 +97,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - Gemini API 1.0 hands-on, [【Python x Gemini】ハンズオン - Build with AI](https://gdg-tokyo.connpass.com/event/317227/), Tokyo, 2024 April 30
 - Things You Should Do as a Student before Becoming a Professional Tech Role, [GDSC Japan 合同新歓 未経験者でも大丈夫！基礎から学ぶウェブサイト制作](https://gdsc-jp.connpass.com/event/311644/), Tokyo, 2024 Apr 30
 - ML Career path, [機械学習のプロフェッショナルとして働く人のキャリアパス](https://gdg.community.dev/events/details/google-gdg-on-campus-tokyo-city-university-tokyo-japan-presents-ji-jie-xue-xi-nopurohuetsushiyonarutoshitedong-kuren-nokiyariapasu/) by GDSC Tokyo City University, Tokyo (Online), 2024 Mar 23
-- Facilitator of Panel Discussion, Google Developer Expertsが語るWeb技術の最前線, Tokyo, 2024 Mar 19 
+- Facilitator of Panel Discussion, Google Developer Experts が語るWeb技術の最前線, Tokyo, 2024 Mar 19 
 
 ### 2023
 - Introduction to Google Style Guides, [DevFest Kochi](https://gdgshikoku.connpass.com/event/302730/), 2023 Dec 17
