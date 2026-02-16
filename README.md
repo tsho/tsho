@@ -19,7 +19,9 @@ Blogs
 
 Sho Tanaka / Lead Developer Advocate, Snowflake
 
-As a developer advocate for Snowflake, Sho is responsible for writing blog articles and developing demo of Snowflake and AI/ML. From 2020 to 2025, Sho worked at Google gTech Publisher, ML/Data vertical, providing ML/data solutions for publishers from Japan to Asia and the Global. The solutions, which included content recommendations delivered via GitHub, successfully improved publishers' revenue and created multiple first external case studies within gTech Publisher, e.g. Gemini, ML etc. Privately, Sho co-organizes the [MLOps community JP](https://mlops.connpass.com/). Early organizer, MLOps Community Japan: Spearheaded the launch and growth of an open, free-to-attend community focused on MLOps/LLMOps/AIOps. Organized and hosted monthly tech meetups, successfully delivering over 60 events by the end of 2025. Scale & Impact: Grew the community to a membership of over 5,000 registered professionals on our event page.
+As a developer advocate for Snowflake, Sho is responsible for writing blog articles and developing demo of Snowflake and AI/ML. From 2020 to 2025, Sho worked at Google gTech Publisher, ML/Data vertical, providing ML/data solutions for publishers from Japan to Asia and the Global. The solutions, which included content recommendations delivered via GitHub, successfully improved publishers' revenue and created multiple first external case studies within gTech Publisher, e.g. Gemini, ML etc.
+
+Privately, Sho co-organizes the [MLOps community JP](https://mlops.connpass.com/). Early organizer, MLOps Community Japan: Spearheaded the launch and growth of an open, free-to-attend community focused on MLOps/LLMOps/AIOps. Organized and hosted monthly tech meetups, successfully delivering over 60 events by the end of 2025. Scale & Impact: Grew the community to a membership of over 5,000 registered professionals on our event page.
 
 ## Bio (Japanese)
 
