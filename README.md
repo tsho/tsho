@@ -10,6 +10,11 @@
 - 🌱 I’m currently learning TypeScript, LLM.
 - 💬 Ask me about MLOps, ML, AI, Data Architect, IT Strategy.
 
+Blogs
+- English: [medium](https://medium.com/@tshowis)
+- Japanese: [Zenn](https://zenn.dev/tshowis)
+
+
 ## Bio
 
 Sho Tanaka / Lead Developer Advocate, Snowflake
