@@ -9,6 +9,7 @@
 - 📫 How to reach me: [Twitter - @tshowis](https://twitter.com/tshowis), [Linkedin](https://www.linkedin.com/in/tsho/)  
 - 🌱 I’m currently learning TypeScript, LLM.
 - 💬 Ask me about MLOps, ML, AI, Data Architect, IT Strategy.
+- [Google Developre Expert, AI/ML](https://developers.google.com/profile/u/104664830323375150845?_gl=1*t021ho*_up*MQ..*_ga*MTY3ODcyMDQwNS4xNzcyMjYyMjUy*_ga_SM8HXJ53K2*czE3NzIyNjIyNTIkbzEkZzAkdDE3NzIyNjIyNTIkajYwJGwwJGgw&hl=ja)
 
 Blogs
 - English: [medium](https://medium.com/@tshowis)
