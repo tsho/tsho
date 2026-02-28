@@ -9,7 +9,12 @@
 - 📫 How to reach me: [Twitter - @tshowis](https://twitter.com/tshowis), [Linkedin](https://www.linkedin.com/in/tsho/)  
 - 🌱 I’m currently learning TypeScript, LLM.
 - 💬 Ask me about MLOps, ML, AI, Data Architect, IT Strategy.
+
+Certifications
 - [Google Developer Expert, AI/ML](https://g.dev/tsho)
+- [IT Strategist, IPA Japan](https://www.ipa.go.jp/shiken/kubun/st.html)
+- Python Readability in Google
+
 
 Blogs
 - English: [medium](https://medium.com/@tshowis)
