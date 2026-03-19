@@ -69,9 +69,11 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ### Upcoming
 - 調整中, NorthStar, Tokyo, 2026 4月予定, Sho Tanaka
-- Keynote Demo, [Data For Breakfast Tokyo](https://www.snowflake.com/events/data-for-breakfast/tokyo/), Tokyo, 2026 Mar 17, Sho Tanaka
+
 
 ### 2026
+- Closing Keynote - Closing Keynote ~ Snowflake 最新アップデート & Snowflake 流 Agentic Enginering, [Tech Fast Track]([https://www.snowflake.com/events/data-for-breakfast/tokyo/](https://www.snowflake.com/snowflake-tech-fast-track/)), Tokyo, 2026 Mar 17, Sho Tanaka
+- Keynote Demo, [Data For Breakfast Tokyo](https://www.snowflake.com/events/data-for-breakfast/tokyo/), Tokyo, 2026 Mar 17, Sho Tanaka
 - [AI Agentにおける評価手法と Agent GPA](https://speakerdeck.com/tsho/ai-agentniokeruping-jia-zhi-biao-toagent-gpa), [MLOps 勉強会 #61](https://mlops.connpass.com/event/382225/), Online, 2026 Feb 26, Sho Tanaka
 - Snowflake で簡単に構築できる AI Agent と次世代フルマネージドデータエージェント - Snowflake Intelligence, [Developers Summit 2026](https://event.shoeisha.jp/devsumi/20260218/session/6498), Ariake Central Tower Hall&Conference@Japan, 2026 Feb 20, Sho Tanaka
 - Snowflake AI Data Cloud 最新アップデート, [Snowflake AI Data Meetup #1](https://techplay.jp/event/990613), Snowflake Tokyo office, 2026 Feb 17, Sho Tanaka
