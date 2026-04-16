@@ -60,6 +60,9 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ## Presentation - English
 
 ### 2026
+- Virtual workshop: From Zero to Agents - Building end-to-end data pipelines for an AI agent, [DATA FOR  BREAKFAST VIRTUAL](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 17, Sho Tanaka
+- Virtual workshop: Building Intelligent Data Applications with Snowflake, [DATA FOR  BREAKFAST VIRTUAL](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 16, Sho Tanaka
+- VHOL: Getting Started with Snowflake Cortex Code, [DATA FOR  BREAKFAST VIRTUAL](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 13, Sho Tanaka
 - [LT: Scale SciPy with jax.shard_map](https://speakerdeck.com/tsho/scale-scipy-with-jax-dot-shard-map-jax-dot-shard-mapde-scipy-wosukeru), [SciPyData 2026](https://scipydata.connpass.com/event/364718/), Tokyo, 2026 Jan 24, Sho Tanaka
 
 ### 2025
@@ -77,6 +80,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 
 ### 2026
+- はじめての Cotex Code, [Snowflake Night #3](https://snowflakejapan.connpass.com/event/385891/), Tokyo, 2026 Apr 8, Sho Tanaka
 - 今からはじめる画像生成 Nano Banana, [Build with AI 2026 高松 Google Developer Groups 四国](https://gdgshikoku.connpass.com/event/386377/), Takamatsu, 2026 Mar 21, Sho Tanaka
 - エンベディングってなに？RAGってなに？LLMの回答をよりよくする技術の紹介 - Gemini Embedding 2, [Build with AI 2026 高松 Google Developer Groups 四国](https://gdgshikoku.connpass.com/event/386377/), Takamatsu, 2026 Mar 21, Sho Tanaka
 - Closing Keynote ~ Snowflake 最新アップデート & Snowflake 流 Agentic Enginering, [Tech Fast Track]([https://www.snowflake.com/events/data-for-breakfast/tokyo/](https://www.snowflake.com/snowflake-tech-fast-track/)), Tokyo, 2026 Mar 17, Sho Tanaka
