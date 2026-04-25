@@ -58,6 +58,10 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - [Getting Started with Snowflake Intelligence JA](https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-ja)
 
 ## Presentation - English
+### Upcoming
+- How to Evaluate AI Agent to be Robust Intelligence, [Devoxx Poland 2026](https://devoxx.pl/talk/?id=7369), Poland, 2026, June 19
+- Building Real-Time Fraud Detection with Agentic ML in Snowflake, ML219, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768418284289001JNiI), San Francisco, 2026, June 3
+- Batch Data Extraction at Scale with Cortex AI Functions AI112, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768325391726001uQFa), San Francisco, 2026, June 2
 
 ### 2026
 - Virtual workshop: From Zero to Agents - Building end-to-end data pipelines for an AI agent, [DATA FOR  BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 17, Sho Tanaka
@@ -75,7 +79,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ### Upcoming
 - ハンズオン Data Ingestion, Transfomation and Deliveriy, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Nagoya, 2026 5, 12, Sho Tanaka
-
+- Gemini Embedding 2 で学ぶセマンティク検索システムハンズオン, [GDG Tokyo](https://gdg-tokyo.connpass.com/event/390683/), Tokyo, 2026, 5, 14, Sho Tanaka
 
 
 
