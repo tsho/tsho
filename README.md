@@ -35,6 +35,8 @@ Certifications
 Blogs
 - English: [medium](https://medium.com/@tshowis)
 - Japanese: [Zenn](https://zenn.dev/tshowis)
+- Japanese: [Private Blog](https://implicit-none.com)
+
 
 Slides
 - [speakerdeck](https://speakerdeck.com/tsho)
