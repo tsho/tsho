@@ -62,10 +62,14 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ## Presentation - English
 ### Upcoming
 - How to Evaluate AI Agent to be Robust Intelligence, [Devoxx Poland 2026](https://devoxx.pl/talk/?id=7369), Poland, 2026, June 19
-- Building Real-Time Fraud Detection with Agentic ML in Snowflake, ML219, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768418284289001JNiI), San Francisco, 2026, June 3
-- Batch Data Extraction at Scale with Cortex AI Functions AI112, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768325391726001uQFa), San Francisco, 2026, June 2
+- VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 6
+- VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 10
+ 
+
 
 ### 2026
+- Building Real-Time Fraud Detection with Agentic ML in Snowflake, ML219, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768418284289001JNiI), San Francisco, 2026, June 3
+- Batch Data Extraction at Scale with Cortex AI Functions AI112, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768325391726001uQFa), San Francisco, 2026, June 2
 - Virtual workshop: From Zero to Agents - Building end-to-end data pipelines for an AI agent, [DATA FOR  BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 17, Sho Tanaka
 - Virtual workshop: Building Intelligent Data Applications with Snowflake, [DATA FOR  BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 16, Sho Tanaka
 - VHOL: Getting Started with Snowflake Cortex Code, [DATA FOR  BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 13, Sho Tanaka
