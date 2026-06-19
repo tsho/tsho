@@ -61,13 +61,15 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ## Presentation - English
 ### Upcoming
-- How to Evaluate AI Agent to be Robust Intelligence, [Devoxx Poland 2026](https://devoxx.pl/talk/?id=7369), Poland, 2026, June 19
 - VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 6
 - VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 10
+- Building Reliable AI Agents: An Open Source Approach to Evaluation and Observability, [Open Source Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/program/schedule/), South Korea, 2026, Aug 13
+- When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
  
 
 
 ### 2026
+- How to Evaluate AI Agent to be Robust Intelligence, [Devoxx Poland 2026](https://devoxx.pl/talk/?id=7369), Poland, 2026, June 19, [demo code](https://github.com/tsho/demo-development-tool-agent)
 - Building Real-Time Fraud Detection with Agentic ML in Snowflake, ML219, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768418284289001JNiI), San Francisco, 2026, June 3
 - Batch Data Extraction at Scale with Cortex AI Functions AI112, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768325391726001uQFa), San Francisco, 2026, June 2
 - Virtual workshop: From Zero to Agents - Building end-to-end data pipelines for an AI agent, [DATA FOR  BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 17, Sho Tanaka
