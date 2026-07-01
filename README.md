@@ -26,7 +26,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats-navy-iota-76.vercel.app/api/top-langs/?username=tsho&theme=vue-dark&layout=compact&count_private=true&include_all_commits=true&show_icons=true" />
 </div>
 
-Certifications
+Certifications/Member
 - [Google Developer Expert, AI/ML](https://g.dev/tsho)
 - [IT Strategist, IPA Japan](https://www.ipa.go.jp/shiken/kubun/st.html)
 - Python Readability in Google
