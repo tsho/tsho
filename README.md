@@ -30,6 +30,7 @@ Certifications
 - [Google Developer Expert, AI/ML](https://g.dev/tsho)
 - [IT Strategist, IPA Japan](https://www.ipa.go.jp/shiken/kubun/st.html)
 - Python Readability in Google
+- TPU Builders Program
 
 
 Blogs
