@@ -68,6 +68,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 
 ### 2026
+- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [SciPy 2026](https://www.scipy2026.scipy.org/schedule)), Virtual Poster, 2026, July 15
 - VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 10
 - VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 6
 - How to Evaluate AI Agent to be Robust Intelligence, [Devoxx Poland 2026](https://devoxx.pl/talk/?id=7369), Poland, 2026, June 19, [demo code](https://github.com/tsho/demo-development-tool-agent)
