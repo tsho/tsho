@@ -64,7 +64,8 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ### Upcoming
 - Building Reliable AI Agents: An Open Source Approach to Evaluation and Observability, [Open Source Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/program/schedule/), South Korea, 2026, Aug 13
 - When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
- 
+- How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
+- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://2026.pycon.gr/en/](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
 
 
 ### 2026
@@ -88,9 +89,10 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ## Presentaion - Japanese / 日本語
 
 ### Upcoming
-
+- 自動化とオープン性で進化するデータエンジニアリング：Snowflakeが実現する次世代データ基盤, [Data Engineering Summit 2026](https://data-engineering-summit.findy-tools.io/2026), Tokyo, Oct 7
 
 ### 2026
+- LT: 無邪気にグローバルキャンペーンに応募したらこんないいことが, Community Summit 2026, Tokyo, 2026, 8, 2
 - AI Agent は“データの意味”を理解できるか？〜Semantic Layerが変えるAI時代のビジネスコンテキスト〜, [Developers Summit 2026 Summer](https://event.shoeisha.jp/devsumi/20260716), Tokyo, 2026, 7, 16, Sho Tanaka, [demo code](https://github.com/tsho/llm-ossie-postgres)
 - Hands-on session, [Snowflake CoCo 最新機能ハンズオン会 ＆ Snowflake活用事例セッション【SnowVillage WESTユーザー会】](https://techplay.jp/event/997100), Osaka, 2026, 7, 13, Sho Tanaka
 - Google I/O 2026 で進化を遂げた Google AI Studio, [Google I/O Extended Tokyo 2026](https://gdg-tokyo.connpass.com/event/394136/), Tokyo, 2026, 7, 11, Sho Tanaka
