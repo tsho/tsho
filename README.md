@@ -105,7 +105,8 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - ハンズオン Data Ingestion, Transfomation and Deliveriy, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Nagoya, 2026 5, 12, Sho Tanaka
 - Cortex Code が加速する Agentic ML パイプライン, [Snowflake AI駆動開発・データ分析の最前線 ~ Cortex Code で変わるデータワークフロー ~](https://www.snowflake.com/about/webinars/cortex-code-day-japan/), Online, 2026 4, 24
 - Northstar ハンズオン Data Ingestion, Transfomation and Deliveriy, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Osaka, 2026 4, 23, Sho Tanaka
-- Northstar ハンズオン Data Ingestion, Transfomation and Deliveriy, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Tokyo, 2026 4, 21, Sho Tanaka- はじめての Cotex Code, [Snowflake Night #3](https://snowflakejapan.connpass.com/event/385891/), Tokyo, 2026 Apr 8, Sho Tanaka
+- Northstar ハンズオン Data Ingestion, Transfomation and Deliveriy, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Tokyo, 2026 4, 21, Sho Tanaka
+- はじめての Cotex Code, [Snowflake Night #3](https://snowflakejapan.connpass.com/event/385891/), Tokyo, 2026 Apr 8, Sho Tanaka
 - 今からはじめる画像生成 Nano Banana, [Build with AI 2026 高松 Google Developer Groups 四国](https://gdgshikoku.connpass.com/event/386377/), Takamatsu, 2026 Mar 21, Sho Tanaka
 - エンベディングってなに？RAGってなに？LLMの回答をよりよくする技術の紹介 - Gemini Embedding 2, [Build with AI 2026 高松 Google Developer Groups 四国](https://gdgshikoku.connpass.com/event/386377/), Takamatsu, 2026 Mar 21, Sho Tanaka
 - Closing Keynote ~ Snowflake 最新アップデート & Snowflake 流 Agentic Enginering, [Tech Fast Track]([https://www.snowflake.com/events/data-for-breakfast/tokyo/](https://www.snowflake.com/snowflake-tech-fast-track/)), Tokyo, 2026 Mar 17, Sho Tanaka
