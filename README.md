@@ -62,7 +62,6 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ## Presentation - English
 ### Upcoming
-- Building Reliable AI Agents: An Open Source Approach to Evaluation and Observability, [Open Source Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/program/schedule/), South Korea, 2026, Aug 13
 - When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
 - Virtual Hands-On Lab: Build Your First Agentic ML Pipeline with Natural Language, [Snowflake Webinar](https://www.snowflake.com/en/webinars/virtual-hands-on-lab/build-your-first-agentic-ml-pipeline-with-natural-language-apac-2026-08-19/), Online, Aug 19
 - How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
@@ -70,6 +69,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 
 ### 2026
+- Building Reliable AI Agents: An Open Source Approach to Evaluation and Observability, [Open Source Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/program/schedule/), South Korea, 2026, Aug 13
 - Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [SciPy 2026](https://www.scipy2026.scipy.org/schedule), Virtual Poster, 2026, July 15
 - VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 10
 - VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 6
