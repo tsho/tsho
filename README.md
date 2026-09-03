@@ -95,7 +95,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - 自動化とオープン性で進化するデータエンジニアリング：Snowflakeが実現する次世代データ基盤, [Data Engineering Summit 2026](https://data-engineering-summit.findy-tools.io/2026), Tokyo, Oct 7
 
 ### 2026
-- pgvector とlance db パフォーマンス比較, [第57回 PostgreSQLアンカンファレンス@オンライ](https://pgunconf.connpass.com/event/402653/), Tokyo Online, 2026, 9, 3
+- pgvector とlance db パフォーマンス比較, [第57回 PostgreSQLアンカンファレンス@オンライン](https://pgunconf.connpass.com/event/402653/), Tokyo Online, 2026, 9, 3
 - LT: 無邪気にグローバルキャンペーンに応募したらこんないいことが, JP Community Summit 2026, Tokyo, 2026, 8, 2
 - Snowflake CoCo のエコシステムと実践デモ, SnowCamp, Tokyo, 2026, 7, 27
 - AI Agent は“データの意味”を理解できるか？〜Semantic Layerが変えるAI時代のビジネスコンテキスト〜, [Developers Summit 2026 Summer](https://event.shoeisha.jp/devsumi/20260716), Tokyo, 2026, 7, 16, Sho Tanaka, [demo code](https://github.com/tsho/llm-ossie-postgres)
