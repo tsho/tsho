@@ -57,8 +57,10 @@ Privately, Sho is a co-organizer of the [MLOps community Japan](https://mlops.co
 Snowflake の Developer Advocate として Data Engineering や AI/ML に関するブログ記事やドキュメントの執筆、デモ開発等を担当。2020 年から 2025 年まで Google の gTech にて Publisher 向けの Solution Engineerとして、ML/Data のソリューションを Github などを介して日本からアジア、世界に向けて提供。コンテンツレコメンデーションや Gemini を用いたソリューションによって Publisher の収益を改善することに成功し、gTech Publisher 内での初の外部事例を複数作成。当時、APACの所属組織内で初めて Python Readability を取得。プライベートでは MLOps community JP を Co-organizer として運営している。AI/ML を中心に情報発信を行っている。
 
 ## Features repo
-- [Snowflake-Labs/demo-content-rec-with-online-feature-serving](https://github.com/Snowflake-Labs/demo-content-rec-with-online-feature-serving)
-- [Getting Started with Snowflake Intelligence JA](https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-ja)
+
+- [development-tool-agent](https://github.com/tsho/development-tool-agent)
+- [mcp-ml-reliability](https://github.com/tsho/mcp-ml-reliability)
+- [tsho-lab](https://github.com/tsho/tsho-lab)
 
 ## Presentation - English
 ### Upcoming
@@ -93,6 +95,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - 自動化とオープン性で進化するデータエンジニアリング：Snowflakeが実現する次世代データ基盤, [Data Engineering Summit 2026](https://data-engineering-summit.findy-tools.io/2026), Tokyo, Oct 7
 
 ### 2026
+- pgvector とlance db パフォーマンス比較, [第57回 PostgreSQLアンカンファレンス@オンライ](https://pgunconf.connpass.com/event/402653/), Tokyo Online, 2026, 9, 3
 - LT: 無邪気にグローバルキャンペーンに応募したらこんないいことが, JP Community Summit 2026, Tokyo, 2026, 8, 2
 - Snowflake CoCo のエコシステムと実践デモ, SnowCamp, Tokyo, 2026, 7, 27
 - AI Agent は“データの意味”を理解できるか？〜Semantic Layerが変えるAI時代のビジネスコンテキスト〜, [Developers Summit 2026 Summer](https://event.shoeisha.jp/devsumi/20260716), Tokyo, 2026, 7, 16, Sho Tanaka, [demo code](https://github.com/tsho/llm-ossie-postgres)
