@@ -64,7 +64,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ## Presentation - English
 ### Upcoming
-- Teach Your AI Agents What the Data Means: A Semantic Layer with Apache Ossie and Iceberg, [the Community Over Code Sydney 2026](https://communityovercode.apache.org/events/sydney-2026/), Sydney, Nov 22-23
+- Teach Your AI Agents What the Data Means: A Semantic Layer with Apache Ossie and Iceberg, [the Community Over Code Sydney 2026](https://communityovercode.apache.org/events/sydney-2026/), Sydney, Nov 18-19
 - How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
 - Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
 
