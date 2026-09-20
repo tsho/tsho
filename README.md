@@ -64,6 +64,7 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ## Presentation - English
 ### Upcoming
+- Teach Your AI Agents What the Data Means: A Semantic Layer with Apache Ossie and Iceberg, [the Community Over Code Sydney 2026](https://communityovercode.apache.org/events/sydney-2026/), Sydney, Nov 22-23
 - How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
 - Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
 
@@ -95,6 +96,8 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 - 自動化とオープン性で進化するデータエンジニアリング：Snowflakeが実現する次世代データ基盤, [Data Engineering Summit 2026](https://data-engineering-summit.findy-tools.io/2026), Tokyo, Oct 7
 
 ### 2026
+- Snowflake CoCo による AI 駆動開発最前線!, [Snowflake World Tour Tokyo](https://www.snowflake.com/ja/world-tour/tokyo/), Tokyo, 2026, 9, 10
+- Keynote Demo, [Snowflake World Tour Tokyo](https://www.snowflake.com/ja/world-tour/tokyo/), Tokyo, 2026, 9, 10
 - pgvector とlance db パフォーマンス比較, [第57回 PostgreSQLアンカンファレンス@オンライン](https://pgunconf.connpass.com/event/402653/), Tokyo Online, 2026, 9, 3
 - LT: 無邪気にグローバルキャンペーンに応募したらこんないいことが, JP Community Summit 2026, Tokyo, 2026, 8, 2
 - Snowflake CoCo のエコシステムと実践デモ, SnowCamp, Tokyo, 2026, 7, 27
