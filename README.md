@@ -3,7 +3,7 @@
 </div>
 
 
-<!-- 2. プロフィールや連絡先を変更 -->
+<!-- 2. Profile -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 - 🧑‍💻 I'm a Developer Advocate.
 - 📫 How to reach me: [Twitter - @tshowis](https://twitter.com/tshowis), [Linkedin](https://www.linkedin.com/in/tsho/)  
@@ -11,11 +11,9 @@
 - 💬 Ask me about MLOps, ML, AI, Data Architect, IT Strategy.
 
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+<!-- 3. Favorite technical stucks -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,fastapi,go,docker,aws,gcp,firebase,fortran,git" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,fastapi,go,docker,aws,gcp,firebase,fortran,git,iceberg,pytorch" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
