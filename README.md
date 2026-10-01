@@ -94,9 +94,9 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ### Upcoming
 - 特別講演 自動化とオープン性で進化するデータエンジニアリング：Snowflakeが実現する次世代データ基盤, [Data Engineering Summit 2026](https://data-engineering-summit.findy-tools.io/2026), Tokyo, Oct 9
 - #8 みんな助かっているタイムトラベル！, [雪かき部 #8](https://yukikaki.connpass.com/event/407640/), Online, Oct 6
-- Gemma 4 でローカルLLMハンズオン in 大阪【DevFest Meetup #3】, [GDG Greater Kwansai (Google Developer Group 広域関西)](https://gdgkwansai.connpass.com/event/404318/), Osaka, Sep 30
 
 ### 2026
+- Gemma 4 でローカルLLMハンズオン in 大阪【DevFest Meetup #3】, [GDG Greater Kwansai (Google Developer Group 広域関西)](https://gdgkwansai.connpass.com/event/404318/), Osaka, Sep 30
 - Snowflake CoCo による AI 駆動開発最前線!, [Snowflake World Tour Tokyo](https://www.snowflake.com/ja/world-tour/tokyo/), Tokyo, 2026, 9, 10
 - Keynote Demo, [Snowflake World Tour Tokyo](https://www.snowflake.com/ja/world-tour/tokyo/), Tokyo, 2026, 9, 10
 - pgvector とlance db パフォーマンス比較, [第57回 PostgreSQLアンカンファレンス@オンライン](https://pgunconf.connpass.com/event/402653/), Tokyo Online, 2026, 9, 3
