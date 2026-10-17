@@ -56,19 +56,19 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 
 ## Features repo
 
-- [development-tool-agent](https://github.com/tsho/development-tool-agent)
-- [mcp-ml-reliability](https://github.com/tsho/mcp-ml-reliability)
+- [Simple Agent GPA demo - development-tool-agent](https://github.com/tsho/development-tool-agent)
+- [MCP x ML - mcp-ml-reliability](https://github.com/tsho/mcp-ml-reliability)
 - [tsho-lab](https://github.com/tsho/tsho-lab)
 
 ## Presentation - English
 ### Upcoming
 - Unifying RL Post-Training for LLMs: One DeepSpeed + Ray Engine, Many Frameworks, [Open Source Summit Japan + Automotive Linux Summit + Embedded Linux Conference Asia 2026](https://events.linuxfoundation.org/open-source-summit-japan/), Tokyo, Dec 7-9, 
 - Teach Your AI Agents What the Data Means: A Semantic Layer with Apache Ossie and Iceberg, [the Community Over Code Sydney 2026](https://communityovercode.apache.org/events/sydney-2026/), Sydney, Nov 18-19
-- How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
 - Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
 
 
 ### 2026
+- How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
 - Virtual Hands-On Lab: Build Your First Agentic ML Pipeline with Natural Language, [Snowflake Webinar](https://www.snowflake.com/en/webinars/virtual-hands-on-lab/build-your-first-agentic-ml-pipeline-with-natural-language-apac-2026-08-19/), Online, Aug 19
 - When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
 - Building Reliable AI Agents: An Open Source Approach to Evaluation and Observability, [Open Source Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/program/schedule/), South Korea, 2026, Aug 13
@@ -92,10 +92,11 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ## Presentaion - Japanese / 日本語
 
 ### Upcoming
-- 特別講演 自動化とオープン性で進化するデータエンジニアリング：Snowflakeが実現する次世代データ基盤, [Data Engineering Summit 2026](https://data-engineering-summit.findy-tools.io/2026), Tokyo, Oct 9
-- #8 みんな助かっているタイムトラベル！, [雪かき部 #8](https://yukikaki.connpass.com/event/407640/), Online, Oct 6
+
 
 ### 2026
+- 特別講演 自動化とオープン性で進化するデータエンジニアリング：Snowflakeが実現する次世代データ基盤, [Data Engineering Summit 2026](https://data-engineering-summit.findy-tools.io/2026), Tokyo, Oct 9
+- #8 みんな助かっているタイムトラベル！, [雪かき部 #8](https://yukikaki.connpass.com/event/407640/), Online, Oct 6
 - Gemma 4 でローカルLLMハンズオン in 大阪【DevFest Meetup #3】, [GDG Greater Kwansai (Google Developer Group 広域関西)](https://gdgkwansai.connpass.com/event/404318/), Osaka, Sep 30
 - Snowflake CoCo による AI 駆動開発最前線!, [Snowflake World Tour Tokyo](https://www.snowflake.com/ja/world-tour/tokyo/), Tokyo, 2026, 9, 10
 - Keynote Demo, [Snowflake World Tour Tokyo](https://www.snowflake.com/ja/world-tour/tokyo/), Tokyo, 2026, 9, 10
