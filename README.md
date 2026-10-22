@@ -64,10 +64,9 @@ Snowflake の Developer Advocate として Data Engineering や AI/ML に関す�
 ### Upcoming
 - Unifying RL Post-Training for LLMs: One DeepSpeed + Ray Engine, Many Frameworks, [Open Source Summit Japan + Automotive Linux Summit + Embedded Linux Conference Asia 2026](https://events.linuxfoundation.org/open-source-summit-japan/), Tokyo, Dec 7-9, 
 - Teach Your AI Agents What the Data Means: A Semantic Layer with Apache Ossie and Iceberg, [the Community Over Code Sydney 2026](https://communityovercode.apache.org/events/sydney-2026/), Sydney, Nov 18-19
-- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
-
 
 ### 2026
+- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
 - How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
 - Virtual Hands-On Lab: Build Your First Agentic ML Pipeline with Natural Language, [Snowflake Webinar](https://www.snowflake.com/en/webinars/virtual-hands-on-lab/build-your-first-agentic-ml-pipeline-with-natural-language-apac-2026-08-19/), Online, Aug 19
 - When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
