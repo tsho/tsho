@@ -1,8 +1,3 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=tsho" />
-</div>
-
-
 # Sho Tanaka
 
 **ML/AI Engineer — Applied AI, Agents & Open Source**
@@ -11,8 +6,7 @@
 - [LinkedIn](https://www.linkedin.com/in/tsho/)
 - [Blog](https://implicit-none.com)
 - [Zenn](https://zenn.dev/tshowis)
-- [Speaker Deck](https://speakerdeck.com/〔id〕)
-- [medium](https://medium.com/@tshowis)
+- [Speaker Deck](https://speakerdeck.com/tsho)
 
 
 ## Selected work
@@ -27,7 +21,7 @@
 - **[development-tool-agent](https://github.com/tsho/development-tool-agent)**
     - Goal · Plan · Action agent evaluation demo. Presented at Devoxx Poland, PyCon Greece, and Open Source Summit Korea 2026.
 - **[mcp-ml-reliability](https://github.com/tsho/mcp-ml-reliability)**
-    — Reproduces failure modes of ML models behind MCP agent tools (false success, stale results, version mismatch) and attaches structured trust metadata to every call. Presented at MCP Dev Summit Seoul 2026.
+    - Reproduces failure modes of ML models behind MCP agent tools (false success, stale results, version mismatch) and attaches structured trust metadata to every call. Presented at MCP Dev Summit Seoul 2026.
 
 ### ML systems & benchmarks
 - **[tsho-lab](https://github.com/tsho/tsho-lab)**
@@ -41,7 +35,7 @@
 - Developer tools published under `google-marketing-solutions` (Apache-2.0): [word2vec content recommendation on GA4/BigQuery](https://github.com/google/content_recommendation_using_word2vec), [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas), [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
 
 ## Talks
-12 international conference acceptances in 2025–26, including three Linux Foundation summits (OSSummit + AI_dev Japan 2025, Devoxx Poland 2026, OSS Korea 2026, MCP Dev Summit Seoul 2026 etc).
+12 international conference acceptances in 2025–26, including three Linux Foundation summits (Devoxx Poland, PyCon Greece/Taiwan, SciPy, and three LF summits (OSS + AI_dev Japan, OSS Korea, MCP Dev Summit Seoul)
 
 ## Stack
 Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MCP · TruLens — Kubernetes (GKE) · GCP · AWS · Snowflake · BigQuery · Apache Iceberg
@@ -55,8 +49,6 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 
 ## Presentation - English
 ### Upcoming
-- Unifying RL Post-Training for LLMs: One DeepSpeed + Ray Engine, Many Frameworks, [Open Source Summit Japan + Automotive Linux Summit + Embedded Linux Conference Asia 2026](https://events.linuxfoundation.org/open-source-summit-japan/), Tokyo, Dec 7-9, 
-- Teach Your AI Agents What the Data Means: A Semantic Layer with Apache Ossie and Iceberg, [the Community Over Code Sydney 2026](https://communityovercode.apache.org/events/sydney-2026/), Sydney, Nov 18-19
 
 ### 2026
 - Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
@@ -65,14 +57,14 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
 - Building Reliable AI Agents: An Open Source Approach to Evaluation and Observability, [Open Source Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/program/schedule/), South Korea, 2026, Aug 13
 - Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [SciPy 2026](https://www.scipy2026.scipy.org/schedule), Virtual Poster, 2026, July 15
-- VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 10
-- VHOL: Getting Started with CoCo, [Snowflake Dicover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 6
+- VHOL: Getting Started with CoCo, [Snowflake Discover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 10
+- VHOL: Getting Started with CoCo, [Snowflake Discover APJ](https://www.snowflake.com/about/webinars/snowflake-discover-apac/), Online Asia, 2026, July 6
 - How to Evaluate AI Agent to be Robust Intelligence, [Devoxx Poland 2026](https://devoxx.pl/talk/?id=7369), Poland, 2026, June 19, [demo code](https://github.com/tsho/demo-development-tool-agent)
 - Building Real-Time Fraud Detection with Agentic ML in Snowflake, ML219, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768418284289001JNiI), San Francisco, 2026, June 3
 - Batch Data Extraction at Scale with Cortex AI Functions AI112, [Snowflake Summit 2026](https://reg.snowflake.com/flow/snowflake/summit26/sessions/page/catalog/session/1768325391726001uQFa), San Francisco, 2026, June 2
-- Virtual workshop: From Zero to Agents - Building end-to-end data pipelines for an AI agent, [DATA FOR  BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 17, Sho Tanaka
-- Virtual workshop: Building Intelligent Data Applications with Snowflake, [DATA FOR  BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 16, Sho Tanaka
-- VHOL: Getting Started with Snowflake Cortex Code, [DATA FOR  BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 13, Sho Tanaka
+- Virtual workshop: From Zero to Agents - Building end-to-end data pipelines for an AI agent, [DATA FOR BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 17, Sho Tanaka
+- Virtual workshop: Building Intelligent Data Applications with Snowflake, [DATA FOR BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 16, Sho Tanaka
+- VHOL: Getting Started with Snowflake Cortex Code, [DATA FOR BREAKFAST VIRTUAL APAC](https://www.snowflake.com/events/data-for-breakfast/virtual-apac/), Virtual, 2026 Apr 13, Sho Tanaka
 - [LT: Scale SciPy with jax.shard_map](https://speakerdeck.com/tsho/scale-scipy-with-jax-dot-shard-map-jax-dot-shard-mapde-scipy-wosukeru), [SciPyData 2026](https://scipydata.connpass.com/event/364718/), Tokyo, 2026 Jan 24, Sho Tanaka
 
 ### 2025
@@ -81,7 +73,7 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - The Rise of PostgreSQL as the Everything Database, [PostgreSQL Conference Japan 2025](https://www.postgresql.jp/jpug-pgcon2025), Tokyo, 2025 Nov 21, Claire Peracchio / Brett Goulder / Sho Tanaka
 
  
-## Presentaion - Japanese / 日本語
+## Presentation - Japanese / 日本語
 
 ### Upcoming
 
@@ -102,14 +94,14 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - Keynote Demo, [Snowflake Data & AI Insights in Osaka](https://www.snowflake.com/events/data-and-ai-insights-osaka/), Nagoya, 2026, 5, 21, Sho Tanaka
 - Gemini Embedding 2 で学ぶセマンティク検索システムハンズオン, [GDG Tokyo](https://gdg-tokyo.connpass.com/event/390683/), Tokyo, 2026, 5, 14, Sho Tanaka
 - Snowflake デモセッション, Tech meatup, Tokyo, 2026 5, 13, Sho Tanaka
-- ハンズオン Data Ingestion, Transfomation and Deliveriy, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Nagoya, 2026 5, 12, Sho Tanaka
+- ハンズオン Data Ingestion, Transformation and Delivery, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Nagoya, 2026 5, 12, Sho Tanaka
 - Cortex Code が加速する Agentic ML パイプライン, [Snowflake AI駆動開発・データ分析の最前線 ~ Cortex Code で変わるデータワークフロー ~](https://www.snowflake.com/about/webinars/cortex-code-day-japan/), Online, 2026 4, 24
-- Northstar ハンズオン Data Ingestion, Transfomation and Deliveriy, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Osaka, 2026 4, 23, Sho Tanaka
-- Northstar ハンズオン Data Ingestion, Transfomation and Deliveriy, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Tokyo, 2026 4, 21, Sho Tanaka
-- はじめての Cotex Code, [Snowflake Night #3](https://snowflakejapan.connpass.com/event/385891/), Tokyo, 2026 Apr 8, Sho Tanaka
+- Northstar ハンズオン Data Ingestion, Transformation and Delivery, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Osaka, 2026 4, 23, Sho Tanaka
+- Northstar ハンズオン Data Ingestion, Transformation and Delivery, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Tokyo, 2026 4, 21, Sho Tanaka
+- はじめての Cortex Code, [Snowflake Night #3](https://snowflakejapan.connpass.com/event/385891/), Tokyo, 2026 Apr 8, Sho Tanaka
 - 今からはじめる画像生成 Nano Banana, [Build with AI 2026 高松 Google Developer Groups 四国](https://gdgshikoku.connpass.com/event/386377/), Takamatsu, 2026 Mar 21, Sho Tanaka
 - エンベディングってなに？RAGってなに？LLMの回答をよりよくする技術の紹介 - Gemini Embedding 2, [Build with AI 2026 高松 Google Developer Groups 四国](https://gdgshikoku.connpass.com/event/386377/), Takamatsu, 2026 Mar 21, Sho Tanaka
-- Closing Keynote ~ Snowflake 最新アップデート & Snowflake 流 Agentic Enginering, [Tech Fast Track]([https://www.snowflake.com/events/data-for-breakfast/tokyo/](https://www.snowflake.com/snowflake-tech-fast-track/)), Tokyo, 2026 Mar 17, Sho Tanaka
+- Closing Keynote ~ Snowflake 最新アップデート & Snowflake 流 Agentic Engineering, [Tech Fast Track](https://www.snowflake.com/snowflake-tech-fast-track/), Tokyo, 2026 Mar 17, Sho Tanaka
 - Keynote Demo, [Data For Breakfast Tokyo](https://www.snowflake.com/events/data-for-breakfast/tokyo/), Tokyo, 2026 Mar 17, Sho Tanaka
 - [AI Agentにおける評価手法と Agent GPA](https://speakerdeck.com/tsho/ai-agentniokeruping-jia-zhi-biao-toagent-gpa), [MLOps 勉強会 #61](https://mlops.connpass.com/event/382225/), Online, 2026 Feb 26, Sho Tanaka
 - Snowflake で簡単に構築できる AI Agent と次世代フルマネージドデータエージェント - Snowflake Intelligence, [Developers Summit 2026](https://event.shoeisha.jp/devsumi/20260218/session/6498), Ariake Central Tower Hall&Conference@Japan, 2026 Feb 20, Sho Tanaka
@@ -118,7 +110,7 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - Keynote : Snowflake で実現する AI-ready なデータ基盤, [Discover AI 2026](https://www.snowflake.com/about/webinars/snowflake-discover-ai-japan/), Online, 2026 Feb 6, Sho Tanaka
 - 簡易ハンズオン：はじめての Snowflake Intelligence, [Discover AI 2026](https://www.snowflake.com/about/webinars/snowflake-discover-ai-japan/), Online, 2026 Feb 5, Sho Tanaka, [repo](https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-ja)
 - Keynote : Snowflake と歩むエンタープライズ AI, [Discover AI 2026](https://www.snowflake.com/about/webinars/snowflake-discover-ai-japan/), Online, 2026 Feb 5, Sho Tanaka
-- Introduction to Snowflake, [【金融庁共催】第４回金融データ活用チャレンジ勉強会 - Snowflake編]([https://pcdua1203.peatix.com/](https://user.competition.signate.jp/ja/competition/detail/?competition=8fd1916845984ca1ae2d620731deae19)), Online, 2026 Jan 29, Sho Tanaka
+- Introduction to Snowflake, [【金融庁共催】第４回金融データ活用チャレンジ勉強会 - Snowflake編](https://user.competition.signate.jp/ja/competition/detail/?competition=8fd1916845984ca1ae2d620731deae19), Online, 2026 Jan 29, Sho Tanaka
 - [LT: Scale SciPy with jax.shard_map](https://speakerdeck.com/tsho/scale-scipy-with-jax-dot-shard-map-jax-dot-shard-mapde-scipy-wosukeru), [SciPyData 2026](https://scipydata.connpass.com/event/364718/), Tokyo, 2026 Jan 24, Sho Tanaka
 - Cortex Code で遊んでみよう, [Snowflake Night #1](https://snowflakejapan.connpass.com/event/379109/), Snowflake Tokyo Office, 2026 Jan 23, Sho Tanaka 
 - Snowflake Intelligence オリジナルハンズオン, [BUILD Meetup: Osaka 2025](https://usergroups.snowflake.com/events/details/snowflake-japan-presents-build-meetup-tokyo-2025/), Osaka, 2026 Jan 14, Sho Tanaka, [repo](https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-ja)
@@ -169,7 +161,7 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - Introduction to MLOps, [ML OnAir #6](https://cloudonair.withgoogle.com/events/solution-machine-learning?talk=ml-session6-2), Tokyo, 2022 Mar 16
 
 ### 2021
-- Introduction to Data Drift, [MLOps JP community #8](https://mlops.connpass.com/event/211953/), Tokyo (Onine), 2021, June 16
+- Introduction to Data Drift, [MLOps JP community #8](https://mlops.connpass.com/event/211953/), Tokyo (Online), 2021, June 16
 
 ## Others
 - 東京予選審査員, [GDGoC Japan Hackathon 2026](https://gdsc-jp.connpass.com/event/378883/), Tokyo, 2026, Mar 22
