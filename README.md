@@ -27,7 +27,10 @@
     - Reproducible benchmarks: DeepSpeed ZeRO vs FSDP2 on GKE (A100 NVLink vs L4 PCIe), JAX on TPU v6e, vLLM on TPU vs GPU, pgvector vs LanceDB at matched recall.
 
 ### Earlier (Google)
-- Developer tools published under the `google` and `google-marketing-solutions` GitHub Organizations (Apache-2.0): [word2vec content recommendation on GA4/BigQuery](https://github.com/google/content_recommendation_using_word2vec), [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas), [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
+- Developer tools published under the `google` and `google-marketing-solutions` GitHub Organizations (Apache-2.0):
+    - [word2vec content recommendation on GA4/BigQuery](https://github.com/google/content_recommendation_using_word2vec)
+    - [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas)
+    - [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
 
 ### Upstream
 - **PyTorch** — Dynamo: `contextlib.closing` support in `torch.compile` and closure-cell tracking fix ([#197830](https://github.com/pytorch/pytorch/pull/197830), merged)
