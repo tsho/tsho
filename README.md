@@ -38,7 +38,7 @@
 
 
 ## Talks
-12 international conference acceptances in 2025–26, including Devoxx Poland, PyCon Greece, PyCon Taiwan, SciPy, and three Linux Foundation summits (AI_dev Japan 2025, Open Source Summit Korea 2026, MCP Dev Summit Seoul 2026). Full list below.
+12 international conference acceptances in 2025–26, including Devoxx Poland, PyCon Greece, PyCon Taiwan, SciPy, and three Linux Foundation summits (OSS + AI_dev Japan 2025, Open Source Summit Korea 2026, MCP Dev Summit Seoul 2026). Full list below.
 
 ## Stack
 Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MCP · TruLens — Kubernetes (GKE) · GCP · AWS · Snowflake · BigQuery · Apache Iceberg
