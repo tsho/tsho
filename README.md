@@ -1,8 +1,7 @@
 # Sho Tanaka
 
 **ML/AI Engineer — Applied AI, Agents & Open Source**
-- Tokyo, Japan / Google Developer Expert (AI) / Upstream contributor to PyTorch and Apache Iceberg / Google TPU Builder
-
+  - Tokyo, Japan / Google Developer Expert (AI) / Upstream contributor to PyTorch and Apache Iceberg / Google TPU Builder
   - [LinkedIn](https://www.linkedin.com/in/tsho/)
   - [Blog](https://implicit-none.com)
   - [Zenn](https://zenn.dev/tshowis)
@@ -28,7 +27,7 @@
     - Reproducible benchmarks: DeepSpeed ZeRO vs FSDP2 on GKE (A100 NVLink vs L4 PCIe), JAX on TPU v6e, vLLM on TPU vs GPU, pgvector vs LanceDB at matched recall.
 
 ### Earlier (Google)
-- Developer tools published under the `google` and `google-marketing-solutions` (Apache-2.0): [word2vec content recommendation on GA4/BigQuery](https://github.com/google/content_recommendation_using_word2vec), [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas), [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
+- Developer tools published under the `google` and `google-marketing-solutions` GitHub Organizations (Apache-2.0): [word2vec content recommendation on GA4/BigQuery](https://github.com/google/content_recommendation_using_word2vec), [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas), [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
 
 ### Upstream
 - **PyTorch** — Dynamo: `contextlib.closing` support in `torch.compile` and closure-cell tracking fix ([#197830](https://github.com/pytorch/pytorch/pull/197830), merged)
@@ -50,8 +49,8 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 
 ## Presentation - English
 ### 2026
-- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
-- How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
+- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Twaiwan 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
+- How to Evaluate AI Agent to be Robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
 - Virtual Hands-On Lab: Build Your First Agentic ML Pipeline with Natural Language, [Snowflake Webinar](https://www.snowflake.com/en/webinars/virtual-hands-on-lab/build-your-first-agentic-ml-pipeline-with-natural-language-apac-2026-08-19/), Online, Aug 19
 - When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
 - Building Reliable AI Agents: An Open Source Approach to Evaluation and Observability, [Open Source Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/program/schedule/), South Korea, 2026, Aug 13
@@ -83,20 +82,20 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - Gemma 4 でローカルLLMハンズオン in 大阪【DevFest Meetup #3】, [GDG Greater Kwansai (Google Developer Group 広域関西)](https://gdgkwansai.connpass.com/event/404318/), Osaka, Sep 30
 - Snowflake CoCo による AI 駆動開発最前線!, [Snowflake World Tour Tokyo](https://www.snowflake.com/ja/world-tour/tokyo/), Tokyo, 2026, 9, 10
 - Keynote Demo, [Snowflake World Tour Tokyo](https://www.snowflake.com/ja/world-tour/tokyo/), Tokyo, 2026, 9, 10
-- pgvector とlance db パフォーマンス比較, [第57回 PostgreSQLアンカンファレンス@オンライン](https://pgunconf.connpass.com/event/402653/), Tokyo Online, 2026, 9, 3
+- pgvector とLanceDBパフォーマンス比較, [第57回 PostgreSQLアンカンファレンス@オンライン](https://pgunconf.connpass.com/event/402653/), Tokyo Online, 2026, 9, 3
 - LT: 無邪気にグローバルキャンペーンに応募したらこんないいことが, JP Community Summit 2026, Tokyo, 2026, 8, 2
 - Snowflake CoCo のエコシステムと実践デモ, SnowCamp, Tokyo, 2026, 7, 27
 - AI Agent は“データの意味”を理解できるか？〜Semantic Layerが変えるAI時代のビジネスコンテキスト〜, [Developers Summit 2026 Summer](https://event.shoeisha.jp/devsumi/20260716), Tokyo, 2026, 7, 16, Sho Tanaka, [demo code](https://github.com/tsho/llm-ossie-postgres)
 - Hands-on session, [Snowflake CoCo 最新機能ハンズオン会 ＆ Snowflake活用事例セッション【SnowVillage WESTユーザー会】](https://techplay.jp/event/997100), Osaka, 2026, 7, 13, Sho Tanaka
 - Google I/O 2026 で進化を遂げた Google AI Studio, [Google I/O Extended Tokyo 2026](https://gdg-tokyo.connpass.com/event/394136/), Tokyo, 2026, 7, 11, Sho Tanaka
 - Google I/O Recap, [Build With AI & Google I/O 2026 Recap ＠ GDG Nagoya](https://gdgnagoya.connpass.com/event/392481/), Nagoya, 2026, 5, 24, Sho Tanaka
-- Keynote Demo, [Snowflake Data & AI Insights in Osaka](https://www.snowflake.com/events/data-and-ai-insights-osaka/), Nagoya, 2026, 5, 21, Sho Tanaka
-- Gemini Embedding 2 で学ぶセマンティク検索システムハンズオン, [GDG Tokyo](https://gdg-tokyo.connpass.com/event/390683/), Tokyo, 2026, 5, 14, Sho Tanaka
+- Keynote Demo, [Snowflake Data & AI Insights in Osaka](https://www.snowflake.com/events/data-and-ai-insights-osaka/), Osaka, 2026, 5, 21, Sho Tanaka
+- Gemini Embedding 2 で学ぶセマンティック検索システムハンズオン, [GDG Tokyo](https://gdg-tokyo.connpass.com/event/390683/), Tokyo, 2026, 5, 14, Sho Tanaka
 - Snowflake デモセッション, Tech meatup, Tokyo, 2026 5, 13, Sho Tanaka
 - ハンズオン Data Ingestion, Transformation and Delivery, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Nagoya, 2026 5, 12, Sho Tanaka
 - Cortex Code が加速する Agentic ML パイプライン, [Snowflake AI駆動開発・データ分析の最前線 ~ Cortex Code で変わるデータワークフロー ~](https://www.snowflake.com/about/webinars/cortex-code-day-japan/), Online, 2026 4, 24
-- Northstar ハンズオン Data Ingestion, Transformation and Delivery, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Osaka, 2026 4, 23, Sho Tanaka
-- Northstar ハンズオン Data Ingestion, Transformation and Delivery, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Tokyo, 2026 4, 21, Sho Tanaka
+- NorthStar ハンズオン Data Ingestion, Transformation and Delivery, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Osaka, 2026 4, 23, Sho Tanaka
+- NorthStar ハンズオン Data Ingestion, Transformation and Delivery, [NorthStar](https://www.snowflake.com/event/northstar-tokyo-osaka/), Tokyo, 2026 4, 21, Sho Tanaka
 - はじめての Cortex Code, [Snowflake Night #3](https://snowflakejapan.connpass.com/event/385891/), Tokyo, 2026 Apr 8, Sho Tanaka
 - 今からはじめる画像生成 Nano Banana, [Build with AI 2026 高松 Google Developer Groups 四国](https://gdgshikoku.connpass.com/event/386377/), Takamatsu, 2026 Mar 21, Sho Tanaka
 - エンベディングってなに？RAGってなに？LLMの回答をよりよくする技術の紹介 - Gemini Embedding 2, [Build with AI 2026 高松 Google Developer Groups 四国](https://gdgshikoku.connpass.com/event/386377/), Takamatsu, 2026 Mar 21, Sho Tanaka
@@ -132,7 +131,7 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - Gemini API 2.0 Hands-on, [AI 共創の時代へ - Build with AI Kwansai](https://gdgkwansai.connpass.com/event/346523/), Osaka, 2025 Apr 19, [colab](https://colab.research.google.com/drive/1L3pmms0IaqBJbsMOhAsQ24VjXleU47rW)
 - Gemini API 2.0 Hands-on, [Python × Gemini 2.0 API ハンズオン〜Build with AI 〜](https://gdg-tokyo.connpass.com/event/346783/), Tokyo, 2025 Apr 15, [colab](https://colab.research.google.com/drive/1L3pmms0IaqBJbsMOhAsQ24VjXleU47rW)
 - Gemini API 2.0 Hands-on, [GDG Nagoya @ Build With AI Meetup & ハンズオン](https://gdgnagoya.connpass.com/event/347154/), Aichi, 2025 Apr 12, [colab](https://colab.research.google.com/drive/1L3pmms0IaqBJbsMOhAsQ24VjXleU47rW)
-- Gemini API 2.0 Hands-on, [Google Gemini ハンズオン in 徳島（Build with AI）](https://gdgshikoku.connpass.com/event/339649/) , Tokushima, 2025 Feb 8, [colab](https://colab.research.google.com/drive/1L3pmms0IaqBJbsMOhAsQ24VjXleU47rW)
+- Gemini API 2.0 Hands-on, [Google Gemini ハンズオン in 徳島（Build with AI）](https://gdgshikoku.connpass.com/event/339649/), Tokushima, 2025 Feb 8, [colab](https://colab.research.google.com/drive/1L3pmms0IaqBJbsMOhAsQ24VjXleU47rW)
 
 ### 2024
 - 2024 H2 Google AI Updates, [DevFest Nagoya](https://gdgnagoya.connpass.com/event/335686/), Aichi, 2024 Nov 23
@@ -148,7 +147,7 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 
 ### 2023
 - Introduction to Google Style Guides, [DevFest Kochi](https://gdgshikoku.connpass.com/event/302730/), 2023 Dec 17
-- Google Style Guides with Google Marketing Solution on the Github, [DevFest Tokyo 2023](https://gdg-tokyo.connpass.com/event/301690/), 2023 Dec 9
+- Google Style Guides with Google Marketing Solution on Github, [DevFest Tokyo 2023](https://gdg-tokyo.connpass.com/event/301690/), 2023 Dec 9
 - Future of the Developer Community, Panel Discussion, Google Japan Community Summit, Tokyo, 2023 Nov 17
 - ML Career path, [GDSC EXPO 2023](https://gdsc-jp.connpass.com/event/292314/), 2023 Sep 24
 - Panel Discussion for Future Software Engineering, GDSC 2022-23 Leads Graduation Ceremony, 2023 Sep 14
