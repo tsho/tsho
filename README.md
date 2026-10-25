@@ -3,10 +3,10 @@
 **ML/AI Engineer — Applied AI, Agents & Open Source**
 - Tokyo, Japan / Google Developer Expert (AI) / Upstream contributor to PyTorch and Apache Iceberg / Google TPU Builder
 
-- [LinkedIn](https://www.linkedin.com/in/tsho/)
-- [Blog](https://implicit-none.com)
-- [Zenn](https://zenn.dev/tshowis)
-- [Speaker Deck](https://speakerdeck.com/tsho)
+  - [LinkedIn](https://www.linkedin.com/in/tsho/)
+  - [Blog](https://implicit-none.com)
+  - [Zenn](https://zenn.dev/tshowis)
+  - [Speaker Deck](https://speakerdeck.com/tsho)
 
 
 ## Selected work
@@ -27,15 +27,16 @@
 - **[tsho-lab](https://github.com/tsho/tsho-lab)**
     - Reproducible benchmarks: DeepSpeed ZeRO vs FSDP2 on GKE (A100 NVLink vs L4 PCIe), JAX on TPU v6e, vLLM on TPU vs GPU, pgvector vs LanceDB at matched recall.
 
+### Earlier (Google)
+- Developer tools published under the `google` and `google-marketing-solutions` (Apache-2.0): [word2vec content recommendation on GA4/BigQuery](https://github.com/google/content_recommendation_using_word2vec), [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas), [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
+
 ### Upstream
 - **PyTorch** — Dynamo: `contextlib.closing` support in `torch.compile` and closure-cell tracking fix ([#197830](https://github.com/pytorch/pytorch/pull/197830), merged)
 - **Apache Iceberg** — Arrow reader tests for nulls and decimal defaults ([#18271](https://github.com/apache/iceberg/pull/18271), merged)
 
-### Earlier (Google)
-- Developer tools published under `google-marketing-solutions` (Apache-2.0): [word2vec content recommendation on GA4/BigQuery](https://github.com/google/content_recommendation_using_word2vec), [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas), [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
 
 ## Talks
-12 international conference acceptances in 2025–26, including three Linux Foundation summits (Devoxx Poland, PyCon Greece/Taiwan, SciPy, and three LF summits (OSS + AI_dev Japan, OSS Korea, MCP Dev Summit Seoul)
+12 international conference acceptances in 2025–26, including Devoxx Poland, PyCon Greece, PyCon Taiwan, SciPy, and three Linux Foundation summits (AI_dev Japan 2025, Open Source Summit Korea 2026, MCP Dev Summit Seoul 2026). Full list below.
 
 ## Stack
 Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MCP · TruLens — Kubernetes (GKE) · GCP · AWS · Snowflake · BigQuery · Apache Iceberg
@@ -48,8 +49,6 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 
 
 ## Presentation - English
-### Upcoming
-
 ### 2026
 - Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Tw 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
 - How to evaluate AI Agent to be robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
@@ -76,7 +75,7 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 ## Presentation - Japanese / 日本語
 
 ### Upcoming
-
+- Gemma 4 でローカルLLMハンズオン, [DevFest Nagoya 2026 - エージェント時代の開発者とビルダー ＠ GDG Nagoya](https://gdgnagoya.connpass.com/event/403864/), Nagoya, 2026, 11, 8, Sho Tanaka 
 
 ### 2026
 - 特別講演 自動化とオープン性で進化するデータエンジニアリング：Snowflakeが実現する次世代データ基盤, [Data Engineering Summit 2026](https://data-engineering-summit.findy-tools.io/2026), Tokyo, Oct 9
