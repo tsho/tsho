@@ -3,62 +3,55 @@
 </div>
 
 
-<!-- 2. Profile -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-- 🧑‍💻 I'm a Developer Advocate.
-- 📫 How to reach me: [Twitter - @tshowis](https://twitter.com/tshowis), [Linkedin](https://www.linkedin.com/in/tsho/)  
-- 🌱 I’m currently learning TypeScript, LLM.
-- 💬 Ask me about MLOps, ML, AI, Data Architect, IT Strategy.
+# Sho Tanaka
+
+**ML/AI Engineer — Applied AI, Agents & Open Source**
+- Tokyo, Japan / Google Developer Expert (AI) / Upstream contributor to PyTorch and Apache Iceberg / Google TPU Builder
+
+- [LinkedIn](https://www.linkedin.com/in/tsho/)
+- [Blog](https://implicit-none.com)
+- [Zenn](https://zenn.dev/tshowis)
+- [Speaker Deck](https://speakerdeck.com/〔id〕)
+- [medium](https://medium.com/@tshowis)
 
 
-<!-- 3. Favorite technical stucks -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,fastapi,go,docker,aws,gcp,firebase,fortran,git,iceberg,pytorch" />
-<br>
+## Selected work
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-navy-iota-76.vercel.app/api?username=tsho&theme=vue-dark&layout=compact&count_private=true&include_all_commits=true" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-navy-iota-76.vercel.app/api/top-langs/?username=tsho&theme=vue-dark&layout=compact&count_private=true&include_all_commits=true&show_icons=true" />
-</div>
+### Coding agents
+- **[Snowflake CoCo plugin platform](https://github.com/Snowflake-Labs/sf-solutions)**
+    - Designed and built the plugin distribution platform for Snowflake's coding agent (Snowflake CoCo): a central installer over a shared registry of industry repositories, plugins shipping skills, hooks, agents, and MCP servers, and an agentic publishing pipeline.
+- **Coding-agent cost & prompt caching**
+    - Why the first turn of a coding agent uses so many input tokens, and how cache reads and creation change later turns. ([DEV, EN](https://dev.to/snowflake/why-the-first-turn-in-a-coding-agent-can-use-so-many-input-tokens-and-why-that-gets-better-over-f8b) / [Zenn, JA](https://zenn.dev/snowflakejp/articles/4def632fe30a9b))
 
-Certifications/Member
+### Agent evaluation & reliability
+- **[development-tool-agent](https://github.com/tsho/development-tool-agent)**
+    - Goal · Plan · Action agent evaluation demo. Presented at Devoxx Poland, PyCon Greece, and Open Source Summit Korea 2026.
+- **[mcp-ml-reliability](https://github.com/tsho/mcp-ml-reliability)**
+    — Reproduces failure modes of ML models behind MCP agent tools (false success, stale results, version mismatch) and attaches structured trust metadata to every call. Presented at MCP Dev Summit Seoul 2026.
+
+### ML systems & benchmarks
+- **[tsho-lab](https://github.com/tsho/tsho-lab)**
+    - Reproducible benchmarks: DeepSpeed ZeRO vs FSDP2 on GKE (A100 NVLink vs L4 PCIe), JAX on TPU v6e, vLLM on TPU vs GPU, pgvector vs LanceDB at matched recall.
+
+### Upstream
+- **PyTorch** — Dynamo: `contextlib.closing` support in `torch.compile` and closure-cell tracking fix ([#197830](https://github.com/pytorch/pytorch/pull/197830), merged)
+- **Apache Iceberg** — Arrow reader tests for nulls and decimal defaults ([#18271](https://github.com/apache/iceberg/pull/18271), merged)
+
+### Earlier (Google)
+- Developer tools published under `google-marketing-solutions` (Apache-2.0): [word2vec content recommendation on GA4/BigQuery](https://github.com/google/content_recommendation_using_word2vec), [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas), [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
+
+## Talks
+12 international conference acceptances in 2025–26, including three Linux Foundation summits (OSSummit + AI_dev Japan 2025, Devoxx Poland 2026, OSS Korea 2026, MCP Dev Summit Seoul 2026 etc).
+
+## Stack
+Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MCP · TruLens — Kubernetes (GKE) · GCP · AWS · Snowflake · BigQuery · Apache Iceberg
+
+## Credentials
 - [Google Developer Expert, AI/ML](https://g.dev/tsho)
 - [IT Strategist, IPA Japan](https://www.ipa.go.jp/shiken/kubun/st.html)
 - Python Readability in Google
 - TPU Builders Program
 
-
-Blogs
-- English: [medium](https://medium.com/@tshowis)
-- Japanese: [Zenn](https://zenn.dev/tshowis)
-- Japanese: [Private Blog](https://implicit-none.com)
-
-
-Slides
-- [speakerdeck](https://speakerdeck.com/tsho)
-
-## Bio
-
-Sho Tanaka / Lead Developer Advocate, Snowflake
-
-As a developer advocate for Snowflake, Sho is responsible for writing blog articles and developing demo of Snowflake and AI/ML. From 2020 to 2025, Sho worked at Google gTech Publisher, ML/Data vertical, providing ML/data solutions for publishers from Japan to Asia and the Global. The solutions, which included content recommendations delivered via GitHub, successfully improved publishers' revenue and created multiple first external case studies within gTech Publisher, e.g. Gemini, ML etc.
-
-Privately, Sho is a co-organizer of the [MLOps community Japan](https://mlops.connpass.com/). As an early member, he spearheaded the community’s launch and scaled it into a premier hub for MLOps, LLMOps, and AIOps professionals. By the end of 2025, Sho had successfully hosted over 60 monthly tech meetups, growing the community to over 5,000 registered members.
-
-## Bio (Japanese)
-
-田中 翔　/ スノーフレイク合同会社 Developer Advocate
-
-Snowflake の Developer Advocate として Data Engineering や AI/ML に関するブログ記事やドキュメントの執筆、デモ開発等を担当。2020 年から 2025 年まで Google の gTech にて Publisher 向けの Solution Engineerとして、ML/Data のソリューションを Github などを介して日本からアジア、世界に向けて提供。コンテンツレコメンデーションや Gemini を用いたソリューションによって Publisher の収益を改善することに成功し、gTech Publisher 内での初の外部事例を複数作成。当時、APACの所属組織内で初めて Python Readability を取得。プライベートでは MLOps community JP を Co-organizer として運営している。AI/ML を中心に情報発信を行っている。
-
-## Features repo
-
-- [Simple Agent GPA demo - development-tool-agent](https://github.com/tsho/development-tool-agent)
-- [MCP x ML - mcp-ml-reliability](https://github.com/tsho/mcp-ml-reliability)
-- [tsho-lab](https://github.com/tsho/tsho-lab)
 
 ## Presentation - English
 ### Upcoming
