@@ -12,7 +12,7 @@
 ## Selected work
 
 ### Coding agents
-- **[Snowflake CoCo plugin platform](https://github.com/Snowflake-Labs/sf-solutions)**
+- **[Snowflake CoCo Industry Solutions Plugin Platform](https://github.com/Snowflake-Labs/sf-solutions)**
     - Designed and built the plugin distribution platform for Snowflake's coding agent (Snowflake CoCo): a central installer over a shared registry of industry repositories, plugins shipping skills, hooks, agents, and MCP servers, and an agentic publishing pipeline.
 - **Coding-agent cost & prompt caching**
     - Why the first turn of a coding agent uses so many input tokens, and how cache reads and creation change later turns. ([DEV, EN](https://dev.to/snowflake/why-the-first-turn-in-a-coding-agent-can-use-so-many-input-tokens-and-why-that-gets-better-over-f8b) / [Zenn, JA](https://zenn.dev/snowflakejp/articles/4def632fe30a9b))
