@@ -52,7 +52,7 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 
 ## Presentation - English
 ### 2026
-- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Twaiwan 26](https://tw.pycon.org/2026/en-us), Taipei, Oct 17-18
+- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Twaiwan 26](https://tw.pycon.org/2026/en-us/conference/talk/386), Taipei, Oct 17-18
 - How to Evaluate AI Agent to be Robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
 - Virtual Hands-On Lab: Build Your First Agentic ML Pipeline with Natural Language, [Snowflake Webinar](https://www.snowflake.com/en/webinars/virtual-hands-on-lab/build-your-first-agentic-ml-pipeline-with-natural-language-apac-2026-08-19/), Online, Aug 19
 - When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
