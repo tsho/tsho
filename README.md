@@ -32,27 +32,30 @@
     - [LLM article summarizer on Vertex AI Gemini](https://github.com/google-marketing-solutions/gps_mas)
     - [Ad Manager key-value recommendation](https://github.com/google-marketing-solutions/kv_rcm).
 
-### Upstream
+### Open Source Contributions
 - **PyTorch** — Dynamo: `contextlib.closing` support in `torch.compile` and closure-cell tracking fix ([#197830](https://github.com/pytorch/pytorch/pull/197830), merged)
 - **Apache Iceberg** — Arrow reader tests for nulls and decimal defaults ([#18271](https://github.com/apache/iceberg/pull/18271), merged)
 
-
-## Talks
-12 international conference acceptances in 2025–26, including Devoxx Poland, PyCon Greece, PyCon Taiwan, SciPy, and three Linux Foundation summits (OSS + AI_dev Japan 2025, Open Source Summit Korea 2026, MCP Dev Summit Seoul 2026). Full list below.
-
-## Stack
+## Technical Expertise
 Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MCP · TruLens — Kubernetes (GKE) · GCP · AWS · Snowflake · BigQuery · Apache Iceberg
 
-## Credentials
+## Recognition
 - [Google Developer Expert, AI/ML](https://g.dev/tsho)
 - [IT Strategist, IPA Japan](https://www.ipa.go.jp/shiken/kubun/st.html)
 - Python Readability in Google
 - TPU Builders Program
 
+### Selected Talks
+12 international conference acceptances in 2025–2026, including Devoxx Poland, PyCon Greece, PyCon Taiwan, SciPy, and Linux Foundation conferences.
 
-## Presentation - English
+Full speaking history available below.
+
+## Presentation 
+<details>
+<summary>Full Speaking History (2021–2026)</summary>
+## English Talks
 ### 2026
-- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Twaiwan 26](https://tw.pycon.org/2026/en-us/conference/talk/386), Taipei, Oct 17-18
+- Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Taiwan 26](https://tw.pycon.org/2026/en-us/conference/talk/386), Taipei, Oct 17-18
 - How to Evaluate AI Agent to be Robust Intelligence, [PyCon Greece](https://2026.pycon.gr/en/), Greece, Oct 12
 - Virtual Hands-On Lab: Build Your First Agentic ML Pipeline with Natural Language, [Snowflake Webinar](https://www.snowflake.com/en/webinars/virtual-hands-on-lab/build-your-first-agentic-ml-pipeline-with-natural-language-apac-2026-08-19/), Online, Aug 19
 - When MCP Tools Fail: Reliable ML Inference for MCP Agents, [MCP Dev Summit Korea 2026](https://events.linuxfoundation.org/open-source-summit-korea/), South Korea, 2026, Aug 15
@@ -73,9 +76,7 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - Technical Lab: Building Your First End-to-End Machine Learning Project from Scratch, [BUILD ASIA Pacific 2025, Snowflake](https://www.snowflake.com/build-apac/build-apac-resources/), Online, 2025 Dec 9, Sho Tanaka
 - The Rise of PostgreSQL as the Everything Database, [PostgreSQL Conference Japan 2025](https://www.postgresql.jp/jpug-pgcon2025), Tokyo, 2025 Nov 21, Claire Peracchio / Brett Goulder / Sho Tanaka
 
- 
-## Presentation - Japanese / 日本語
-
+## Japanese Talks
 ### Upcoming
 - Gemma 4 でローカルLLMハンズオン, [DevFest Nagoya 2026 - エージェント時代の開発者とビルダー ＠ GDG Nagoya](https://gdgnagoya.connpass.com/event/403864/), Nagoya, 2026, 11, 8, Sho Tanaka 
 
@@ -167,20 +168,4 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 ## Others
 - 東京予選審査員, [GDGoC Japan Hackathon 2026](https://gdsc-jp.connpass.com/event/378883/), Tokyo, 2026, Mar 22
 
-
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+</details>
