@@ -24,9 +24,10 @@
 
 ### ML systems & benchmarks
 Reproducible performance benchmarks with documented methodologies, configurations, and results.
-    - [pgvector vs LanceDB](https://github.com/tsho/tsho-lab/tree/main/pgvector-vs-lancedb) — Vector database performance benchmark comparing ingestion, search latency, and concurrency at matched recall.
-    - [TorchTPU Execution Modes](https://github.com/tsho/tsho-lab/tree/main/torch-tpu-execution-modes) — Benchmarked PyTorch execution strategies on TPU v6e, comparing eager execution, torch.compile, and SingleTraceTrainer.
-    - [DeepSpeed ZeRO vs PyTorch FSDP2](https://github.com/tsho/tsho-lab/tree/main/distributed-training-bench) — Distributed training performance comparison on GKE, evaluating NVIDIA A100 (NVLink) and L4 (PCIe) configurations.
+
+- **[pgvector vs LanceDB](https://github.com/tsho/tsho-lab/tree/main/pgvector-vs-lancedb)** — Vector database performance benchmark comparing ingestion, search latency, and concurrency at matched recall.
+ - **[TorchTPU Execution Modes](https://github.com/tsho/tsho-lab/tree/main/torch-tpu-execution-modes)** — Benchmarked PyTorch execution strategies on TPU v6e, comparing eager execution, torch.compile, and SingleTraceTrainer. Achieved up to **3.4× higher training throughput** with SingleTraceTrainer compared to strict eager execution on TPU v6e-1.
+- **[DeepSpeed ZeRO vs PyTorch FSDP2](https://github.com/tsho/tsho-lab/tree/main/distributed-training-bench)** — Distributed training performance comparison on GKE, evaluating NVIDIA A100 (NVLink) and L4 (PCIe) configurations.
 
 ### Earlier (Google)
 - Developer tools published under the `google` and `google-marketing-solutions` GitHub Organizations (Apache-2.0):
