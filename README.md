@@ -12,7 +12,7 @@
 
 ### Coding agents
 - **[Snowflake CoCo Industry Solutions Plugin Platform](https://github.com/Snowflake-Labs/sf-solutions)**
-    - Designed and built the plugin distribution platform for Snowflake's coding agent (Snowflake CoCo): a central installer over a shared registry of industry repositories, plugins shipping skills, hooks, agents, and MCP servers, and an agentic publishing pipeline.
+    - Designed and built a plugin distribution platform for Snowflake's coding agent baed on Claude or GPT, including a shared registry, reusable skills, hooks, agents, MCP servers, and an agentic publishing pipeline.
 - **Coding-agent cost & prompt caching**
     - Why the first turn of a coding agent uses so many input tokens, and how cache reads and creation change later turns. ([DEV, EN](https://dev.to/snowflake/why-the-first-turn-in-a-coding-agent-can-use-so-many-input-tokens-and-why-that-gets-better-over-f8b) / [Zenn, JA](https://zenn.dev/snowflakejp/articles/4def632fe30a9b))
 
@@ -23,8 +23,10 @@
     - Reproduces failure modes of ML models behind MCP agent tools (false success, stale results, version mismatch) and attaches structured trust metadata to every call. Presented at MCP Dev Summit Seoul 2026.
 
 ### ML systems & benchmarks
-- **[tsho-lab](https://github.com/tsho/tsho-lab)**
-    - Reproducible benchmarks: DeepSpeed ZeRO vs FSDP2 on GKE (A100 NVLink vs L4 PCIe), JAX on TPU v6e, vLLM on TPU vs GPU, pgvector vs LanceDB at matched recall.
+Reproducible performance benchmarks with documented methodologies, configurations, and results.
+    - [pgvector vs LanceDB](https://github.com/tsho/tsho-lab/tree/main/pgvector-vs-lancedb) — Vector database performance benchmark comparing ingestion, search latency, and concurrency at matched recall.
+    - [TorchTPU Execution Modes](https://github.com/tsho/tsho-lab/tree/main/torch-tpu-execution-modes) — Benchmarked PyTorch execution strategies on TPU v6e, comparing eager execution, torch.compile, and SingleTraceTrainer.
+    - [DeepSpeed ZeRO vs PyTorch FSDP2](https://github.com/tsho/tsho-lab/tree/main/distributed-training-bench) — Distributed training performance comparison on GKE, evaluating NVIDIA A100 (NVLink) and L4 (PCIe) configurations.
 
 ### Earlier (Google)
 - Developer tools published under the `google` and `google-marketing-solutions` GitHub Organizations (Apache-2.0):
