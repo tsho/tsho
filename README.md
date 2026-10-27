@@ -46,13 +46,15 @@ Python (primary) · TypeScript · Go · SQL — PyTorch · JAX/TPU · vLLM · MC
 - TPU Builders Program
 
 ### Selected Talks
-12 international conference acceptances in 2025–2026, including Devoxx Poland, PyCon Greece, PyCon Taiwan, SciPy, and Linux Foundation conferences.
+90+ technical talks, workshops, and conference presentations delivered since 2021, including 12 international conference acceptances in 2025–2026, including Devoxx Poland, PyCon Greece, PyCon Taiwan, SciPy 2026, and Linux Foundation conferences.
 
 Full speaking history available below.
 
 ## Presentation 
+
 <details>
 <summary>Full Speaking History (2021–2026)</summary>
+ 
 ## English Talks
 ### 2026
 - Avoiding Zero-Trade Policies in RL with a Decoupled MLOps Architecture, [PyCon Taiwan 26](https://tw.pycon.org/2026/en-us/conference/talk/386), Taipei, Oct 17-18
